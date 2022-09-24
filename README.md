@@ -9,10 +9,13 @@ Write a program to add to number and print the output .
 
 Write a program to print the pattern 
 
-****
-***
-**
-*
+`****`
+
+`***`
+
+`**`
+
+`*`
 
 Execution Time:
 
