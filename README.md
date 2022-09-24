@@ -19,8 +19,8 @@ Write a program to print the pattern
 
 Execution Time:
 
-Python - 0.237 seconds
-C++    - 2.803 seconds
+* Python - 0.237 seconds
+* C++    - 2.803 seconds
 
 # Problem - 3
 
