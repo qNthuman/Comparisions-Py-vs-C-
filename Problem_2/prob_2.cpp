@@ -29,6 +29,6 @@ int main()
     pattern("*",4);
 }
 
-/*doesnt seem to be best way ?  
+/*doesn't seem to be best way ?  
 Create an Issue and give out the best way 
 */
